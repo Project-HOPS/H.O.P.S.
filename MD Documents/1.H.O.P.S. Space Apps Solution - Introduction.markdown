@@ -9,6 +9,6 @@ hydrogen and oxygen react in a 2 to 1 ratio. The pilot will have a belt
 attached to him, which will be supported by crotch and shoulder straps.
 It will connect to an outer ring using springs of high young modulus. 
 This will also offer the pilot protection in case of impact by absorbing most of the shock. 
-The thruster arms will be attached to this outer ring. A gyroscopic
+The foldable thruster arms will be attached to this outer ring. A gyroscopic
 version of H.O.P.S. (G.H.O.P.S.) can also be used. (G.H.O.P.S. is
 explained later)

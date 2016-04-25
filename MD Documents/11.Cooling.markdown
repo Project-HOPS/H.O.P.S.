@@ -1,0 +1,10 @@
+****Problem:****
+
+How will the thrusters be stopped from overheating?
+
+****Solution:****
+
+The hydrogen will be pumped in just before the oxygen. It will cool the
+thruster down and then it will burn in oxygen to produce thrust. Dry ice
+could also be used to cool the engine. CO2, or Martian 'air', could be
+pumped through the thruster to cool it down.

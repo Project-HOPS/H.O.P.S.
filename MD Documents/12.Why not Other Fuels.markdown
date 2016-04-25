@@ -1,0 +1,19 @@
+****Problem:****
+
+Aren’t there other, easier fuels you could use? Why not use other fuels?
+
+****Solution:****
+
+The combustion of hydrogen is an incredibly efficient reaction. It also
+produces a large amount of energy -572 kJ/mol. We initially thought of
+reacting CO2 with Mg however this produces solid byproducts like soot
+that coat the engine, preventing it from functioning.
+
+In addition, the problem with using plasma is that an incredible amount
+of energy is needed to be produced. It would also be an extremely
+dangerous propellant due to its high temperature (some thousands degrees
+Celsius).
+
+Moreover, the problem with using ion propulsion is that it would take
+far too long to accelerate the pilot to a decent speed. It also does not
+allow for sharp maneuverability.

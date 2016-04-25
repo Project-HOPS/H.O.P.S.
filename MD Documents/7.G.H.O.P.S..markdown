@@ -15,4 +15,4 @@ forward due to the thrust exerted and due to the moment produced by the
 return of the heavier plate to its starting position. When H.O.P.S. is
 rolling, the astronaut will be rocking back and forth in his seat. If
 the thrusters exert thrust with a great enough vertical component,
-H.O.P.S. will lift off the ground and will be able to fly as normal.
+H.O.P.S. will lift off the ground and will be able to fly as normal. Another advantage of Gyroscopic H.O.P.S. is that it's much safer due to the heavier part being at the bottom, hence if anything malfunctions or stops working the pilot will not topple over or fall onto his head. The wireframe also offers some protection both from impacts by absorbing most of the shock and other external forces.

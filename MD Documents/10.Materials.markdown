@@ -13,3 +13,5 @@ Kevlar: Used for compressed gas fuel tanks and for insulation of the
 thrusters.
 
 Quartz: Piezoelectric material that coats part of the gloves.
+
+Rubber coating: Coats the wireframe to offer high shock absorption.

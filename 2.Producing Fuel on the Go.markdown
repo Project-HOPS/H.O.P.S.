@@ -1,9 +1,9 @@
-****Problem:****
+##Problem:##
 
 Imagine you’re almost out of fuel before reaching your base, what do you
 do?
 
-****Solution:****
+##Solution:##
 
 Water ice can be harvested, and by using a device (container with a
 lens) that magnifies the sunlight on mars (of intensity 590 W/m\^2), can

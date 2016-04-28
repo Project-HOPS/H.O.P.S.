@@ -24,3 +24,5 @@ pressure than the main concave container can be attached to the main
 container. The CO2 (produced by the sublimation process ) will move
 through these tubes, spinning small turbines that will generate current.
 This current can also be used to charge the battery.
+
+![alt tag](http://i.imgur.com/SrRRlDJ.png)

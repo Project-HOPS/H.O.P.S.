@@ -2,7 +2,7 @@
 
 How would you produce fuel for the jetpack at home base?
 
-##Solution##:
+##Solution:##
 Oxygen can be produced by the decomposition of CO2 (Mars' atmosphere is
 made up of 96% CO2). Water can be produced by the 'Sabatier reaction':
 CO2 +4H2 ==&gt; 2H2O + CH4    -165 kJ/mol, this also takes advantage of

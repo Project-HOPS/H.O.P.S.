@@ -1,8 +1,8 @@
-****Problem:****
+##Problem:##
 
 How will the thrusters be stopped from overheating?
 
-****Solution:****
+##Solution:##
 
 The hydrogen will be pumped in just before the oxygen. It will cool the
 thruster down and then it will burn in oxygen to produce thrust. Dry ice

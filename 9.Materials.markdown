@@ -16,5 +16,5 @@ Quartz: Piezoelectric material that coats part of the gloves.
 
 ![alt tag](http://i.imgur.com/YsyCLK0.jpg)
 ![alt tag](http://i.imgur.com/cUKRSuy.jpg)
-![alt tag]{http://i.imgur.com/HaxxL4J.jpg)
+![alt tag](http://i.imgur.com/HaxxL4J.jpg)
 ![alt tag](http://i.imgur.com/HFpgMBB.jpg)

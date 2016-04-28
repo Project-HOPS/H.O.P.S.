@@ -9,4 +9,4 @@ It will connect to an outer ring using springs of high young modulus.
 The thruster arms will be attached to this outer ring. 
 A gyroscopic version of H.O.P.S. (G.H.O.P.S.) can also be used. 
 
-![alt tag](http://i.imgur.com/bYjjMhL.jpg)
+![alt tag](http://i.imgur.com/SXgEU2a.png)

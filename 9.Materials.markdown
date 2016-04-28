@@ -1,8 +1,8 @@
-****Problem:****
+<center>****Problem:****</center>
 
 What materials will H.O.P.S. be made of?
 
-****Solution:****
+<center>****Solution:****</center>
 
 Carbon Fiber: used for the thrusters, thruster-arms and bionic boots
 (Melting temp. of 3500 degrees Celsius- on Earth. Temperature of the

@@ -1,9 +1,9 @@
-****Problem:****
+##Problem:##
 
 How can you charge the electrics, no matter how few, needed to operate
 H.O.P.S.?
 
-****Solution:****
+##Solution:##
 
 The battery that powers the electrics of H.O.P.S. can be charged while
 the H.O.P.S. is in use. A piezoelectric material will coat the pilot's

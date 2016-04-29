@@ -16,12 +16,12 @@ electromagnetic induction) that will charge the battery (carbon
 nanotubes are very good conductors and also have a release energy to
 elastic potential energy ratio that is 2500 times that of a hardened
 steel spring). The same device that is used to melt water ice can be
-used sublimate dry ice (which normally covers the water ice on Mars).
+used to sublimate dry ice (which normally covers the water ice on Mars).
 Thankfully, the sublimation point of dry ice on Mars is quite close to
 its natural temperature. This means that not that much energy is
 required to produce the gaseous CO2. Two tubes that are at a lower
 pressure than the main concave container can be attached to the main
-container. The CO2 (produced by the sublimation process ) will move
+container. The CO2 (produced by the sublimation process ) will travel
 through these tubes, spinning small turbines that will generate current.
 This current can also be used to charge the battery.
 

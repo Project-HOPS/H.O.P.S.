@@ -1,4 +1,4 @@
-# H.O.P.S
+# H.O.P.S.
 Hydrogen Oxygen Propulsion System
 H.O.P.S. stands for Hydrogen Oxygen Propulsion System. 
 It is a portable four-thruster jet pack that can be used to efficiently and safely navigate Mars. 

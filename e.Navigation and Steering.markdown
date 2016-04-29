@@ -13,7 +13,7 @@ as it will be placed within two servos which allow movement in two
 planes. A fuel distribution system that makes use of valves will be used
 to determine how much thrust each thruster exerts. This system is also shared
 by planes on Earth for distributing fuel. Thrust vectoring not only helps for maneuverability but also bigger autonomy for the jet pack.
-Movement will be controlled by a joystick. A secured button on the joystic kwill start/stop the engine combustion and using a slider you will be able to decrease or increase thrust/flow respectively. For security purposes, an extra putton at the bottom of the joystick will lock ingition button. For extra stability and reliability the thruster-arms are attached to the belt
+Movement will be controlled by a joystick. A secured button on the joystic will start/stop the engine combustion and using a slider you will be able to decrease or increase thrust/flow respectively. For security purposes, an extra putton at the bottom of the joystick will lock ingition button. For extra stability and reliability the thruster-arms are attached to the belt
 previously mentioned.
 
 So if you’re an astronaut: Pushing the joystick forward takes you

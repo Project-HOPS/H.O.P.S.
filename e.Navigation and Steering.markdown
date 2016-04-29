@@ -4,6 +4,8 @@ How do the controls work, and what do does each one do?
 
 ##Solution:##
 
+####Steering:####
+
 Steering will be achieved through thrust vectoring. Thrust vectoring is
 something even helicopters do nowadays to retain stability and
 maneuverability. Each thruster will be able to move about its own axis
@@ -17,6 +19,8 @@ previously mentioned.
 So if you’re an astronaut: Pushing the joystick forward takes you
 forward, pushing it left takes you left, right takes you right and
 pulling it backwards takes you backwards. Simple.
+
+###Navigation:####
 
 Since there is hardly any atmosphere on Mars, the stars can be seen and
 used as reference points for navigation. Moreover, Mars has weak

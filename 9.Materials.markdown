@@ -4,10 +4,10 @@ What materials will H.O.P.S. be made of?
 
 ##Solution:##
 
-Carbon Fiber: used for the thrusters, thruster-arms and bionic boots
+Carbon Fiber(composite): used for the thrusters, thruster-arms and bionic boots
 (Melting temp. of 3500 degrees Celsius- on Earth. Temperature of the
 combustion of hydrogen in each thruster is around 2300 degrees Celsius-
-on Mars)
+on Mars) - SiC 
 
 Kevlar: Used for compressed gas fuel tanks and for insulation of the
 thrusters.

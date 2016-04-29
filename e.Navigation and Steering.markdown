@@ -1,6 +1,6 @@
 ##Problem:##
 
-How do the controls work, and what do does each one do?
+How do the controls work, and what do does each one do? How will you not get lost?
 
 ##Solution:##
 
@@ -11,8 +11,9 @@ something even helicopters do nowadays to retain stability and
 maneuverability. Each thruster will be able to move about its own axis
 as it will be placed within two servos which allow movement in two
 planes. A fuel distribution system that makes use of valves will be used
-to determine the thrust each thruster exerts. This system is also shared
-by planes on Earth. Movement will be controlled by a joystick. For extra
+to determine how much thrust each thruster exerts. This system is also shared
+by planes on Earth for distributing fuel. Thrust vectoring not only helps for maneuverability but also bigger autonomy for the jet pack.
+Movement will be controlled by a joystick. For extra
 stability and reliability the thruster-arms are attached to the belt
 previously mentioned.
 

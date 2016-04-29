@@ -30,7 +30,7 @@ Hence we're left with a horizontal(Ph) and a vertical(Pv) power output.
 
 4.Pv = 110.08 W
 
-###Horizontal Powe:r###
+###Horizontal Power:###
 ---
 
 1.Ph = F*x/t		F = m*a (a = 3 m/s^2) = 164.3* 3 = 492.9 N

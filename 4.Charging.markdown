@@ -1,9 +1,9 @@
-****Problem:****
+##Problem:##
 
 How can you charge the electrics, no matter how few, needed to operate
 H.O.P.S.?
 
-****Solution:****
+##Solution:##
 
 The battery that powers the electrics of H.O.P.S. can be charged while
 the H.O.P.S. is in use. A piezoelectric material will coat the pilot's
@@ -24,3 +24,5 @@ pressure than the main concave container can be attached to the main
 container. The CO2 (produced by the sublimation process ) will move
 through these tubes, spinning small turbines that will generate current.
 This current can also be used to charge the battery.
+
+![alt tag](http://i.imgur.com/SrRRlDJ.png)

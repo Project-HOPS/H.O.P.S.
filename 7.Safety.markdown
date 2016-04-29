@@ -1,8 +1,8 @@
-****Problem:****
+##Problem:##
 
 How can the safety of the astronaut be guaranteed?
 
-****Solution:****
+##Solution:##
 
 To avoid any burning hazards to the astronaut, the thruster will have a
 safety mechanism that will only allow it to be at a certain minimum

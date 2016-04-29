@@ -1,8 +1,8 @@
-****Problem:****
+##Problem:##
 
 How is H.O.P.S. mobile?
 
-****Solution:****
+##Solution:##
 
 While in flight, the position of the arm of each thruster is fixed.
 However, when on foot, the astronaut can fold up these arms, unlock

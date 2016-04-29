@@ -1,8 +1,8 @@
-****Problem:****
+##Problem:##
 
 How do the controls work, and what do does each one do?
 
-****Solution:****
+##Solution:##
 
 Steering will be achieved through thrust vectoring. Thrust vectoring is
 something even helicopters do nowadays to retain stability and

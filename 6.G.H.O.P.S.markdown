@@ -1,8 +1,8 @@
-****Question:****
+##*Question:##
 
 What is G.H.O.P.S.?
 
-****Answer:****
+##Answer:##
 
 The Gyroscopic H.O.P.S. consists of two main components: a spherical
 wire outer frame and an inner pole with a differently-weighted concave

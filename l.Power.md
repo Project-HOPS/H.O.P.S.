@@ -1,3 +1,14 @@
+#Power Output/Input#
+---
+The hydrogen-oxygen reaction produces water and energy equal to approximately 572kJ which will be used as thrust to exerert an upwards force to lift off the driver and the jetpack.
+
+In order for the jetpack to retain a constant height (ΣF = 0 N) it requires the 4 thrusters to exert a total constant force of 631N vertically. Thereforce to calculate the power required we need to take into consideration the time taken for the trip to a certain location, the force it will exert as well as the distance travelled. 
+
+P = (F*Δx)/Δt
+
+Theoretically, the thrusters will need to share the weight of the jetpack equally, each needing to exert a force of approximately 607.91N(in our case - varies) to maintain a constant height. To either increase or decrease the height the thrusters need more or less power respectively provided by the combustion or a higher rate of combustion. This can be calculated using simple basic physics.
+
+
 ##How would you calculate everything?##
 
 Let me give you an example. Say you need to climb to a height of 3m(B) and then get back down while traveling a horizontal distance of say 14 meters(A to C), in a time of 60 seconds and with an acceleration of 3m/s^2. How much total power would you need?

@@ -6,7 +6,7 @@ Thrust will be produced by the combustion of hydrogen in oxygen, stored in press
 The hydrogen tank is twice the size of the oxygen tank as hydrogen and oxygen react in a 2 to 1 ratio. 
 The pilot will have a belt attached to him, which will be supported by crotch and shoulder straps. 
 It will connect to an outer ring using springs of high young modulus. 
-The thruster arms will be attached to this outer ring. 
+The thruster arms will be attached to this outer ring.  The specially designed combustion system of Hydrogen and Oxygen will allow for a 1 mile trip(1.6km) in 30 minutes using 0.88 moles of hydrogen.
 A gyroscopic version of H.O.P.S. (G.H.O.P.S.) can also be used. 
 
 ![alt tag](http://i.imgur.com/bYjjMhL.jpg)

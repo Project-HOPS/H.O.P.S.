@@ -6,10 +6,10 @@ H.O.P.S.?
 ##Solution:##
 
 The battery that powers the electrics of H.O.P.S. can be charged while
-the H.O.P.S. is in use. A piezoelectric material will coat the pilot's
+the H.O.P.S. is in use. A piezoelectric material(quartz) will coat the pilot's
 gloves. The pilot can produce current by rubbing his gloves together or
 moving his hands. This electricity will be fed to the battery. A carbon
-nanotube spring can be used in the bionic boots. A stationary magnet
+nanotube spring can also be used in the bionic boots. A stationary magnet
 within the spring will mean that whenever the spring is compressed and
 relaxed there will be a current produced in the spring (due to
 electromagnetic induction) that will charge the battery (carbon

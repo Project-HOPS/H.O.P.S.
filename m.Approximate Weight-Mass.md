@@ -46,7 +46,7 @@ Sphere: r = 7, height =7 cm
 
 V each  = 2531 cm^3  Mass total = 3.564 kg  W = 13.2 N
 
-####HYDROGEN – OXYGEN TUBES#### (empty inside -Kevlar)
+####HYDROGEN – OXYGEN TUBES(empty inside -Kevlar)###
 R total = 1.5 cm, l= 120 cm Total V =1222 cm^3  Mass = 1.8 kg  W = 6.7 N
 
 ####4 THRUSTERS####
@@ -69,10 +69,10 @@ Mass seat = 5kg , mass gloves = 0.5 kg, belts = 1kg mass total = 6.5 kg
 
 Weight = 24 N
 
-###BIONIC BOOTS### (WITHOUT SPRINGS)
+###BIONIC BOOTS(WITHOUT SPRINGS)###
 Mass each = 3.2 kg => W total = 23.7 N
 
-WIRING + CONTROLLING SYSTEM:
+####WIRING + CONTROLLING SYSTEM:####
 
 Mass = 1.5 kg W = 5.6 N
 

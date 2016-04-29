@@ -8,7 +8,7 @@ To avoid any burning hazards to the astronaut, the thruster will have a
 safety mechanism that will only allow it to be at a certain minimum
 angle away from the pilot. If there is a failure in the electronics and
 the thrusters go out of control, the thrusters will not be able to move
-too close the pilot and potentially harm him.
+too close to the pilot and potentially harm him.
 
 The oxygen and hydrogen will only come in contact with each other in the
 thruster as they will travel through separate pipes. This means that

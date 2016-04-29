@@ -77,3 +77,7 @@ Mass each = 3.2 kg => W total = 23.7 N
 Mass = 1.5 kg W = 5.6 N
 
 
+###*TOTAL APPROXIMATE MASS: 59.3KG*###
+###*TOTAL APPROXIMATE WEIGHT:220N +-0.1N*###
+
+

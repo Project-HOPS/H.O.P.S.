@@ -9,6 +9,7 @@ CO2 +4H2 ==&gt; 2H2O + CH4    -165 kJ/mol, this also takes advantage of
 the Martian atmosphere. The methane produced can be used as an everyday
 fuel at base camp. Microbial electrolysis can be used to split the urea
 in urine into hydrogen and oxygen. 
+
 ![alt tag](http://i.imgur.com/iUtKKJt.jpg)
 
 The carbon dioxide electrolysis process is used in the Reference Mission to provide the needed additional oxygen. The process converts the atmospheric carbon dioxide directly into oxygen and carbon monoxide using zirconia cells at high temperature. The zirconia cell system is not as well developed as the Sabatier process but is under development.This process eliminates the overproduction of methane during propellant production except during the first mission when the Sabatier produced water is also needed. 

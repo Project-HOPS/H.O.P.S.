@@ -4,15 +4,6 @@ What is G.H.O.P.S.?
 
 ##Answer:##
 
-The Gyroscopic H.O.P.S. consists of two main components: a spherical
-wire outer frame and an inner pole with a differently-weighted concave
-plate at each end. These two parts rotate about each other. The bottom
-plate will be heavier than the top one. The thrusters will apply a force
-with a large horizontal component so that the center of gravity is
-displaced from its lowest position. In other words, the heavier plate
-will rotate to where it is behind the astronaut. The ball will now roll
-forward due to the thrust exerted and due to the moment produced by the
-return of the heavier plate to its starting position. When H.O.P.S. is
-rolling, the astronaut will be rocking back and forth in his seat. If
-the thrusters exert thrust with a great enough vertical component,
-H.O.P.S. will lift off the ground and will be able to fly as normal.
+the Gyroscopic Hydrogen Oxygen Propulsion System (G.H.O.P.S.) consists of two main components: a spherical wireframe and an inner pole with two plates on each end. The plate on the bottom end will be heavier than the one on top in order to ensure the pilot always stays upright. These two parts will rotate about each other. When the thrusters apply a force with a large horizontal component the center of gravity is displaced from its lowerst position. In other words, the heavier plate will rotate from its equilibruim position so it's behind the astronaut. The ball will now roll forward due to the thrust exerted and due to the moment produced by the return of the heavier plate to its original position. When G.H.O.P.S. is rolling, the astronaut will be rocking back and forth in his seat. If enough thrust is exerted with a great enough vertical component, then H.O.P.S. will lift off the ground and take to the skies as usual. The wireframe will be made of Silicon Carbide(SiC) as it's a material of low density, high tensile strength and can resist high and low temperature. It's also very resistant to cracking and denting. It will also be covered with a small quantity of a rubbery material to absorb some of the shock in cases of impacts. 
+G.H.O.P.S. will also have gyroscopic systems made out of the same materials as the controlling systems. They will be incorporated in such a way so as to ensure that even if the pilot is not as alert as he should be they will be autonomous enough to secure him. These systems will prevent him from rolling uncontrollably in emergency cases or if he becomes non-responsive.
+
